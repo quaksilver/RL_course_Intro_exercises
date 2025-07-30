@@ -43,7 +43,7 @@ If you're using **Google Colab**, clone this repo and run:
 
 - `DQN.py` – main training script that builds, trains, and evaluates the DQN agent
 - `requirements.txt` – list of required Python packages
-- `run1.png` – output image from the agent’s training (optional for visual analysis)
+- `Run Results` – folder containing output images from the agent’s training (optional for visual analysis)
 
 ---
 

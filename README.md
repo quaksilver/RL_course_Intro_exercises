@@ -80,9 +80,14 @@ During training, the script live-plots the duration of each episode and computes
 
 ---
 
-## 📌 Notes
+## Notes
 
 - Reproducibility: Seed-setting code is included but commented out.
 - Device-agnostic: Automatically uses GPU (CUDA or MPS) if available.
 
+---
 
+## Acknowledgements
+
+This project is based on and adapted from the official PyTorch tutorial:
+[Reinforcement Learning (DQN) Tutorial](https://docs.pytorch.org/tutorials/intermediate/reinforcement_q_learning.html)
